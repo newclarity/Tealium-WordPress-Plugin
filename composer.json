@@ -3,6 +3,6 @@
     "description": "Tealium WordPress Plugin",
     "minimum-stability":"stable",
     "type": "wordpress-plugin",
-    "version": "2.16.-patched"
+    "version": "2.1.6-patched"
 }
 
