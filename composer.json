@@ -1,0 +1,8 @@
+{
+    "name": "newclarity/Tealium-WordPress-Plugin",
+    "description": "Tealium WordPress Plugin",
+    "minimum-stability":"stable",
+    "type": "wordpress-plugin",
+    "version": "2.16.-patched"
+}
+
